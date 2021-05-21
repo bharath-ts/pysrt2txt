@@ -8,7 +8,7 @@ setup(
   author = 'Bharath and Yadunandan',
   author_email = 'bharath.ts91@gmail.com, yadunandanlh64@gmail.com',
   url = 'https://github.com/bharath-ts/pysrt2txt.git',
-  download_url = 'https://github.com/bharath-ts/pysrt2txt/archive/v_01.tar.gz',
+  download_url = 'https://github.com/bharath-ts/pysrt2txt/archive/refs/tags/v1.0.0.tar.gz',
   keywords = ['MOVIE', 'SRT', 'SUBTITLE', 'TEXT CONVERSION'],
   install_requires=[
           're2'
